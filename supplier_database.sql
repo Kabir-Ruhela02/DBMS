@@ -1,5 +1,5 @@
-create database supplier_1bm25cs153;
-use supplier_1bm25cs153;
+create database supplier_1bm25cs149;
+use supplier_1bm25cs149;
 
 create table supplier(
 	sid int primary key,
